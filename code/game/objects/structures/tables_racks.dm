@@ -593,6 +593,7 @@
 	smoothing_flags = NONE
 	smoothing_groups = null
 	canSmoothWith = null
+	//test
 	can_buckle = TRUE
 	//test
 	buckle_lying = 90 //I don't see why you wouldn't be lying down while buckled to it
